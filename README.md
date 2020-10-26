@@ -1,6 +1,6 @@
 # microservice_API_Twitter
 
-Microservicio desarrollado en pyhton.
+Microservicio para análisis de sentimiento con la API de Twitter.
 
 - Una vez ejecutado el DockerFile, el programa se pone en funcionamiento.
 - Se manda una JSON en petición POST a un servidor RESTFUL que está escuchando en mi localhost:5001 con la información necesaria.
